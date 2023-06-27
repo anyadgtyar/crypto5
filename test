@@ -1,0 +1,3 @@
+cd TestnetBridge
+cargo build --release
+cargo run --release
